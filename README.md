@@ -2,7 +2,7 @@
 
 **Smart Crop Doctor** is an intelligent web-based system designed to support farmers by detecting crop diseases early through AI-powered image recognition. With just a photo, farmers can get instant disease predictions, expert recommendations for treatment, and access to help from agricultural officers.
 
-Built to connect **farmers**, **researchers**, and **administrators**, this system improves crop health management and promotes smarter farming practices.
+Built to connect **farmers**  this system improves crop health management and promotes smarter farming practices.
 
 ---
 
@@ -13,16 +13,6 @@ Built to connect **farmers**, **researchers**, and **administrators**, this syst
 - 🦠 **Instantly detect** possible diseases  
 - 💊 **Receive expert-backed treatment suggestions**  
 - 📢 **Report serious issues** to nearby agricultural centers  
-
-### 🧑‍🔬 For Researchers:
-- 🔬 **Analyze reported disease trends**  
-- 📈 **Improve prediction models** with real data  
-- 📝 **Add expert insights and treatment plans**  
-
-### 🛠 For Admins & Field Agents:
-- 👥 **Manage user accounts and reports**  
-- 🎯 **Assign on-field tasks** to agents  
-- 🧭 **Monitor system activity and prediction accuracy**  
 
 ---
 
