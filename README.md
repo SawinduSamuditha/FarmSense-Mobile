@@ -6,6 +6,16 @@ Built to connect **farmers**  this system improves crop health management and pr
 
 ---
 
+### **Mobile Setup**
+
+Navigate to the "mobileapp" directory:
+
+```bash
+npm install
+npm start
+npm run android
+```
+
 ## 🔍 What Can You Do with Smart Crop Doctor?
 
 ### 👨‍🌾 For Farmers:
