@@ -1,6 +1,6 @@
 # 🌿 Smart Crop Doctor – AI-Powered Crop Disease Detection 🚜
 
-**Smart Crop Doctor** is an intelligent web-based system designed to support farmers by detecting crop diseases early through AI-powered image recognition. With just a photo, farmers can get instant disease predictions, expert recommendations for treatment, and access to help from agricultural officers.
+**Smart Crop Doctor** is an intelligent mobile-based system designed to support farmers by detecting crop diseases early through AI-powered image recognition. With just a photo, farmers can get instant disease predictions, expert recommendations for treatment, and access to help from agricultural officers.
 
 Built to connect **farmers**  this system improves crop health management and promotes smarter farming practices.
 
